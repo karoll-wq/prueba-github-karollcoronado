@@ -9,4 +9,3 @@ git init practica-git
 git add.
 git commit d- "primera actualización"
 git pull
-
